@@ -1,0 +1,22 @@
+version: 2
+
+models:
+  - name: q2_1
+    columns:
+      - name: sum_LO_REVENUE
+      - name: year
+      - name: P_BRAND
+
+  - name: q3_3
+    columns:
+      - name: C_CITY
+      - name: S_CITY
+      - name: year
+      - name: revenue
+
+  - name: q4_2
+    columns:
+      - name: year
+      - name: S_NATION
+      - name: P_CATEGORY
+      - name: profit
